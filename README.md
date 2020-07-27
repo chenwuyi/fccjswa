@@ -1,4 +1,4 @@
-# Velas Multi-Currency Wallet
+# Fcc Multi-Currency Wallet
 
 
 
